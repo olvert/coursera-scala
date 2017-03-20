@@ -1,0 +1,317 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+21 items
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> /Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> /Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/common/package$.class
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> /Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/common/package.class
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> /Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$$anonfun$1.class
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> /Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$$anonfun$2.class
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> /Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$$anonfun$3.class
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> /Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$$anonfun$combine$1.class
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> /Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$$anonfun$encode$1.class
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> /Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$$anonfun$mapFun$1$1$$anonfun$apply$1.class
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> /Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$$anonfun$mapFun$1$1.class
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> /Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$$anonfun$mapFun$2$1.class
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> /Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$$anonfun$mergeCodeTables$1.class
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> /Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$$anonfun$sortFun$1$1.class
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> /Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$$anonfun$transform$1$1.class
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> /Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$.class
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> /Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$CodeTree.class
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> /Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$Fork$.class
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> /Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$Fork.class
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> /Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$Leaf$.class
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> /Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$Leaf.class
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> /Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman.class
+binary dependencies:
+4 items
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> /Users/ollesvensson/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> /Users/ollesvensson/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+21 items
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> common.package
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> common.package$
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> patmat.Huffman
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$1
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$2
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$3
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$combine$1
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$encode$1
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$mapFun$1$1
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$mapFun$1$1$$anonfun$apply$1
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$mapFun$2$1
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$mergeCodeTables$1
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$sortFun$1$1
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$transform$1$1
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$CodeTree
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork$
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf$
+used names:
+160 items
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> ::
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> <init>
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> <repeated>
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> Any
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> AnyRef
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> File
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> FileInputStream
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> InputStream
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> List
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> None
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> Nothing
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> Option
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> Predef
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> String
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> _root_
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> child
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> children
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> classesDir
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> common
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> exists
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> file
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> foldLeft
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> getClass
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> getParentFile
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> getResource
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> io
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> java
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> package
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> projectDir
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> resourceFile
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> resourcePath
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> scala
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> subFile
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> toURI
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> $conforms
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> &&
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> +
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> ++
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> ::
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> :::
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> <
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> <init>
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> ==
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> AbstractFunction2
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> AbstractFunction4
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> AnyRef
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> Bit
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> Boolean
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> Char
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> CodeTable
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> CodeTree
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> Fork
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> Function1
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> Huffman
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> IllegalArgumentException
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> Int
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> Leaf
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> List
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> Map
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> Nil
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> None
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> Predef
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> Product
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> ScalaRunTime
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> Serializable
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> Statics
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> String
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> Tuple2
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> _1
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> _2
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> _root_
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> _toString
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> a
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> aLeft
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> anyHash
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> apply
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> asInstanceOf
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> augmentString
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> b
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> bRight
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> bit
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> bits
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> c
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> c1
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> c2
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> canBuildFrom
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> char
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> chars
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> codeBits
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> codeBits_
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> combine
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> common
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> contains
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> convert
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> count
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> ct
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> ct1
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> ct2
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> d
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> decode
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> decodeChar
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> decodeChars
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> distinct
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> encode
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> encodeChar
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> encoding
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> eq
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> fChars
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> fWeight
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> finalizeHash
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> flatten
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> fork
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> frenchCode
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> freqs
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> get
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> head
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> immutable
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> isEmpty
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> isInstanceOf
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> leafList
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> left
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> makeOrderedLeafList
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> map
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> mapFun
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> mergeCodeTables
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> mix
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> ne
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> p
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> p1
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> p2
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> package
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> pair
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> patmat
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> rem
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> res
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> right
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> runtime
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> scala
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> secret
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> singleton
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> singletonList
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> size
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> sortFun
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> sortWith
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> str
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> table
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> tail
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> text
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> times
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> toInt
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> toList
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> toString
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> transform
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> tree
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> trees
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> typedProductIterator
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> until
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> weight
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> x
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> ||
+product stamps:
+21 items
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1488551534000)
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/common/package$.class -> lastModified(1488551534000)
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/common/package.class -> lastModified(1488551534000)
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$$anonfun$1.class -> lastModified(1488557700000)
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$$anonfun$2.class -> lastModified(1488557700000)
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$$anonfun$3.class -> lastModified(1488557700000)
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$$anonfun$combine$1.class -> lastModified(1488557700000)
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$$anonfun$encode$1.class -> lastModified(1488557700000)
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$$anonfun$mapFun$1$1$$anonfun$apply$1.class -> lastModified(1488557700000)
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$$anonfun$mapFun$1$1.class -> lastModified(1488557700000)
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$$anonfun$mapFun$2$1.class -> lastModified(1488557700000)
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$$anonfun$mergeCodeTables$1.class -> lastModified(1488557700000)
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$$anonfun$sortFun$1$1.class -> lastModified(1488557700000)
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$$anonfun$transform$1$1.class -> lastModified(1488557700000)
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$.class -> lastModified(1488557700000)
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$CodeTree.class -> lastModified(1488557700000)
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$Fork$.class -> lastModified(1488557700000)
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$Fork.class -> lastModified(1488557700000)
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$Leaf$.class -> lastModified(1488557700000)
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman$Leaf.class -> lastModified(1488557700000)
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/target/scala-2.11/classes/patmat/Huffman.class -> lastModified(1488557700000)
+source stamps:
+2 items
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> hash(a2480beeb6d707a42c8a91ef22e444654d8678f6)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1459485740000)
+/Users/ollesvensson/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/ollesvensson/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Serializable
+internal apis:
+2 items
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AXwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AR0wACWluaGVyaXRlZHEAfgBHTAAHcGFyZW50c3EAfgBHeHEAfgBmc3EAfgBfAXVxAH4AQgAAAABwc3EAfgBfAXVxAH4AQgAAAABwc3EAfgBfAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AfnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Af3NxAH4AcnQAA0FueXNxAH4AdnNxAH4AeXVxAH4AfAAAAAJzcQB+AH50AAVzY2FsYXEAfgCFcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjb21tb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVqUlacjdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAUy9Vc2Vycy9vbGxlc3ZlbnNzb24vRGV2RmlsZXMvc2NhbGEtdHV0b3JpYWwvY291cnNlMS93ZWVrNC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUiFuPEqWyqD2tZY92zB/dZ4o41Kg=
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDqa7YaAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAP3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBBqRuZ0AAZub3RpZnlzcQB+AAzj40CDdAAMbWFrZUNvZGVUcmVlc3EAfgAMMNffwHQABnNlY3JldHNxAH4ADPnmDgl0AAd1bmFwcGx5c3EAfgAMppAJRHQABmVuY29kZXNxAH4ADGGw/o10AAZ3ZWlnaHRzcQB+AAx7QHfadAAHY3VycmllZHNxAH4ADNn4AyZ0AAR3YWl0c3EAfgAMP0xdhXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMnzJEPnQADSRhc0luc3RhbmNlT2ZzcQB+AAyhT5qjdAAMcHJvZHVjdEFyaXR5c3EAfgAMrYpCxXQABmVxdWFsc3NxAH4ADFNL+O50AAtxdWlja0VuY29kZXNxAH4ADGclXmN0AAxhc0luc3RhbmNlT2ZzcQB+AAyZwjJJdAAMc3luY2hyb25pemVkc3EAfgAMM4LdmHQABGxlZnRzcQB+AAwvPyahdAANJGlzSW5zdGFuY2VPZnNxAH4ADORtY5h0AAZ0dXBsZWRzcQB+AAzljEqQdAAHSHVmZm1hbnNxAH4ADK8z4NV0AAhjYW5FcXVhbHNxAH4ADNy4Kpl0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADOmjAId0AARjaGFyc3EAfgAMuBQG/HQABmRlY29kZXNxAH4ADGe14Jx0AARMZWFmc3EAfgAM1J/4kHQACGNvZGVCaXRzc3EAfgAMBIXUZHQADXByb2R1Y3RQcmVmaXhzcQB+AAy4fuLJdAAFdW50aWxzcQB+AAzWsoCxdAAKZnJlbmNoQ29kZXNxAH4ADPQX6yl0AAlub3RpZnlBbGxzcQB+AAyL3AEJdAALcmVhZFJlc29sdmVzcQB+AAzqxhkOdAAFY2hhcnNzcQB+AAwK6ir/dAAMaXNJbnN0YW5jZU9mc3EAfgAMNHGzI3QABjxpbml0PnNxAH4ADNvuXRl0AAVhcHBseXNxAH4ADP5M6690AA1kZWNvZGVkU2VjcmV0c3EAfgAMJOi/nHQAAj09c3EAfgAMEvSivXQABWNsb25lc3EAfgAMGBck4XQAD21lcmdlQ29kZVRhYmxlc3NxAH4ADAgq9UB0AAV0aW1lc3NxAH4ADPNo+jJ0AAdjb21iaW5lc3EAfgAMmiZunnQADmNvcHkkZGVmYXVsdCQzc3EAfgAMvj6PcnQABGNvcHlzcQB+AAxf3ETIdAAMc3RyaW5nMkNoYXJzc3EAfgAM1GDg6nQACHRvU3RyaW5nc3EAfgAMjocP53QACXNpbmdsZXRvbnNxAH4ADNqLXi10AAIhPXNxAH4ADKItZap0AAhnZXRDbGFzc3NxAH4ADBoL2sF0AAlDb2RlVGFibGVzcQB+AAxHYPjfdAAOY3JlYXRlQ29kZVRyZWVzcQB+AAxF8kE2dAAOY29weSRkZWZhdWx0JDFzcQB+AAz2rUQ8dAAERm9ya3NxAH4ADCXGoJJ0AANCaXRzcQB+AAyykPVvdAACbmVzcQB+AAxDwK/IdAATbWFrZU9yZGVyZWRMZWFmTGlzdHNxAH4ADBdybat0AAhDb2RlVHJlZXNxAH4ADMd0bZF0AAJlcXNxAH4ADId5BKh0AAdjb252ZXJ0c3EAfgAMXh7u1XQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADBmtLgZ0AAVyaWdodHNxAH4ADCGmWoh0AAIjI3NxAH4ADDMwnRd0AAhmaW5hbGl6ZXNxAH4ADFUl1x50AA5wcm9kdWN0RWxlbWVudHNxAH4ADNHAT710AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5wYXRtYXQuSHVmZm1hbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4ArQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AlUwACWluaGVyaXRlZHEAfgCVTAAHcGFyZW50c3EAfgCVeHEAfgC0c3EAfgCtAXVxAH4AkAAAAABwc3EAfgCtAXVxAH4AkAAAAABwc3EAfgCtAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4As3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4As3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AzHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AzXNxAH4AwHQAA0FueXNxAH4AxHNxAH4Ax3VxAH4AygAAAAJzcQB+AMx0AAVzY2FsYXEAfgDTcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZwYXRtYXRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVqU88IadXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAUy9Vc2Vycy9vbGxlc3ZlbnNzb24vRGV2RmlsZXMvc2NhbGEtdHV0b3JpYWwvY291cnNlMS93ZWVrNC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUokgL7rbXB6QsipHvIuREZU2GePY=
+external apis:
+0 items
+source infos:
+2 items
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/Users/ollesvensson/DevFiles/scala-tutorial/course1/week4/src/main/scala/patmat/Huffman.scala -> 
+AAAAAAAAAAA=
+compilations:
+15 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpB2b7N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUy9Vc2Vycy9vbGxlc3ZlbnNzb24vRGV2RmlsZXMvc2NhbGEtdHV0b3JpYWwvY291cnNlMS93ZWVrNC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpCChsF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUy9Vc2Vycy9vbGxlc3ZlbnNzb24vRGV2RmlsZXMvc2NhbGEtdHV0b3JpYWwvY291cnNlMS93ZWVrNC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpCMOi51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUy9Vc2Vycy9vbGxlc3ZlbnNzb24vRGV2RmlsZXMvc2NhbGEtdHV0b3JpYWwvY291cnNlMS93ZWVrNC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpCkmeB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUy9Vc2Vycy9vbGxlc3ZlbnNzb24vRGV2RmlsZXMvc2NhbGEtdHV0b3JpYWwvY291cnNlMS93ZWVrNC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpClg2V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUy9Vc2Vycy9vbGxlc3ZlbnNzb24vRGV2RmlsZXMvc2NhbGEtdHV0b3JpYWwvY291cnNlMS93ZWVrNC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpOpvUJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUy9Vc2Vycy9vbGxlc3ZlbnNzb24vRGV2RmlsZXMvc2NhbGEtdHV0b3JpYWwvY291cnNlMS93ZWVrNC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpOwpAZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUy9Vc2Vycy9vbGxlc3ZlbnNzb24vRGV2RmlsZXMvc2NhbGEtdHV0b3JpYWwvY291cnNlMS93ZWVrNC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpP6WZ51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUy9Vc2Vycy9vbGxlc3ZlbnNzb24vRGV2RmlsZXMvc2NhbGEtdHV0b3JpYWwvY291cnNlMS93ZWVrNC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpQiIGx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUy9Vc2Vycy9vbGxlc3ZlbnNzb24vRGV2RmlsZXMvc2NhbGEtdHV0b3JpYWwvY291cnNlMS93ZWVrNC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpQiyJF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUy9Vc2Vycy9vbGxlc3ZlbnNzb24vRGV2RmlsZXMvc2NhbGEtdHV0b3JpYWwvY291cnNlMS93ZWVrNC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpSKNAF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUy9Vc2Vycy9vbGxlc3ZlbnNzb24vRGV2RmlsZXMvc2NhbGEtdHV0b3JpYWwvY291cnNlMS93ZWVrNC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpSVpyN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUy9Vc2Vycy9vbGxlc3ZlbnNzb24vRGV2RmlsZXMvc2NhbGEtdHV0b3JpYWwvY291cnNlMS93ZWVrNC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpSik3R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUy9Vc2Vycy9vbGxlc3ZlbnNzb24vRGV2RmlsZXMvc2NhbGEtdHV0b3JpYWwvY291cnNlMS93ZWVrNC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpS45uN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUy9Vc2Vycy9vbGxlc3ZlbnNzb24vRGV2RmlsZXMvc2NhbGEtdHV0b3JpYWwvY291cnNlMS93ZWVrNC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpTzwhp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUy9Vc2Vycy9vbGxlc3ZlbnNzb24vRGV2RmlsZXMvc2NhbGEtdHV0b3JpYWwvY291cnNlMS93ZWVrNC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==

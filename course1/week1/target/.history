@@ -1,0 +1,5 @@
+console
+test
+sbt olle@kent.nu KaFF0NL3IJj4wbBv
+sbt submit olle@kent.nu KaFF0NL3IJj4wbBv
+submit olle@kent.nu KaFF0NL3IJj4wbBv
